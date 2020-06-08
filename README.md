@@ -16,3 +16,6 @@ Dữ liệu: Subset của bộ dữ liệu Open Images V4 (3336 ảnh, 5 classes
 Để chạy code trên Google Colab cần cấp quyền truy cập và upload file annotation.txt nhận được sau khi tiền xử lý dữ liệu lên Google Drive và đổi đường dẫn trong notebook.
 
 # Một vài kết quả test
+<img src="Test%20Images/good%20result%201.png" /> 
+<img src="Test%20Images/good%20result%202.png" />
+<img src="Test%20Images/normal%20result%202.png" />
