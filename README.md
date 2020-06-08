@@ -13,6 +13,8 @@ Dữ liệu: Subset của bộ dữ liệu Open Images V4 (3336 ảnh, 5 classes
 
 <code>Object_Detection_DataPreprocessing.ipynb</code> để tiền xử lý dữ liệu để tiền xử lý dữ liệu cho phù hợp với file implement Faster R-CNN <code>frcnn_train_vgg.ipynb</code>. <code>frcnn_test_vgg.ipynb</code> là file để test model và tính toán mAP (mean average precision). 
 
+Cần dowload trước các file <code>train-images-boxable.csv</code>, <code>train-annotations-bbox.csv</code>, <code>class-descriptions-boxable.csv</code> từ https://storage.googleapis.com/openimages/web/download_v4.html và upload lên Google Drive
+
 Để chạy code trên Google Colab cần cấp quyền truy cập và upload file annotation.txt nhận được sau khi tiền xử lý dữ liệu lên Google Drive và đổi đường dẫn trong notebook.
 
 # Một vài kết quả test
